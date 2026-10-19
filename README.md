@@ -47,3 +47,30 @@
 *Last updated: 2026-10-19* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1472-design-browser-history) |
+<!---LeetCode Topics End-->
