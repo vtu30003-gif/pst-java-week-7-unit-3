@@ -47,3 +47,22 @@
 *Last updated: 2026-10-19* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1600-throne-inheritance) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1600-throne-inheritance) |
+## Design
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/vtu30003-gif/pst-java-week-7-unit-3/tree/master/1600-throne-inheritance) |
+<!---LeetCode Topics End-->
